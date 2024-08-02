@@ -1,0 +1,42 @@
+{
+  "destinations": [
+    {
+      "name": "Информация",
+      "slug": "info",
+      "image": "info.jpeg", 
+      "id": 1,
+      "description":
+        "Daft Punk — французский музыкальный электронный дуэт, образованный в 1993 году Томой Бангальтером и Ги-Манюэлем де Омем-Кристо. Достигли значительного успеха к концу девяностых на волне движения хаус-музыки во Франции, создав собственное звучание, смешав элементы электро, хауса, диско и синтипопа.",
+      "experiences": 
+      []
+    },
+    {
+      "name": "Песни",
+      "slug": "songs",
+      "image": "songs.jpg",
+      "id": 2,
+      "description":
+        "'Starboy', 'Get Lucky', 'Random Access Memories', 'Harder, Better, Faster, Stronger', 'Discovery', 'Instant Crush', 'One More Time', 'Around the World', 'Veridis Quo', 'Robot Rock', 'Human After ALL', 'Da Funk'"
+        ,"experiences": []
+    },
+    {
+      "name": "Интересные факты",
+      "slug": "facts",
+      "image": "facts.jpg",
+      "id": 3,
+      "description":
+       
+      "Название Daft Punk появилось из плохого отзыва о прежней группе музыкантов. Когда они были рок-группой, и назывались Darlin’, Томас Бангальтер играл на басу, Гай-Мануэль де Омем-Кристо на гитаре и Лоран Бранкович играл на барабанах. Позже он присоединился к Phoenix как гитарист."
+        ,"experiences": []
+    },
+    {
+      "name": "Ссылки",
+      "slug": "links",
+      "image": "links.jpg",
+      "id": 4,
+      "description":
+        "https://www.daftpunk.com - официальный сайт"
+        ,"experiences": []
+    }
+  ]
+}

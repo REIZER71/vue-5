@@ -1,0 +1,9 @@
+{
+    "name": "Песни",
+    "slug": "songs",
+    "image": "songs.jpg",
+    "id": 2,
+    "description":
+      "'Starboy', 'Get Lucky', 'Random Access Memories', 'Harder, Better, Faster, Stronger', 'Discovery', 'Instant Crush', 'One More Time', 'Around the World', 'Veridis Quo', 'Robot Rock', 'Human After ALL', 'Da Funk'"
+      ,"experiences": []
+  }
